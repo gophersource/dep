@@ -8,7 +8,7 @@ everything here and write out the request, providing as much context as you can.
 ### What version of `dep` are you using (`dep version`)?
 <!--
   If you installed `dep` via `go get`, report the version instead with
-  `cd $GOPATH/src/github.com/golang/dep && git describe --tags`
+  `cd $GOPATH/src/github.com/gophersource/dep && git describe --tags`
 -->
 
 ### What `dep` command did you run?
